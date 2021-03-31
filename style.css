@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+body {
+    text-align: center;
+    background-color: rgb(42, 185, 233);
+    margin: 2%;
+    font-family: 'New Tegomin', serif;
+}
+
+div{
+    width: 480px;
+    margin: 2% auto;
+}
+canvas {
+    background-color: lightcyan;
+    border: 3px solid black;
+}
+
+button{
+    width: 70px;
+    border-radius: 10px;
+    height: 30px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
